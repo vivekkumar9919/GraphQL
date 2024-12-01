@@ -86,7 +86,7 @@ Make sure you have the following installed:
    Clone the repository to your local machine.
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/vivekkumar9919/GraphQL
 2. **Navigate to the Project Directory**  
     Change the directory to the project folder:
 
